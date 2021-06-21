@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoistGoolem
 - 👀 I like code
-- 🌱 I’m currently learning
+- 🌱 I’m ALWAYS learning
 - 📫 Email: olra0312@gmail.com
 
