@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoistGoolem
 - 👀 I like code
-- 🌱 I’m ALWAYS learning
+- 🌱 Software Developer at CapaSystems A/S
 - 📫 Email: olra0312@gmail.com
 
