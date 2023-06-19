@@ -1,4 +1,4 @@
-### Oliver Ramstedt
+# Oliver Ramstedt
 <p align="center">
     <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=1000&color=F77F56&width=435&lines=Oliver+Ramstedt"/> !-->
 </p>
