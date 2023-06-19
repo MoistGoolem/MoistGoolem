@@ -10,13 +10,9 @@
 ### About Me :
 - :telescope: Software Engineer and Certified Scrum Master at CapaSystems A/S 
 
-- :seedling: Developi.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-ramstedt/)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-### My Stats 
+### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoistGoolem&theme=sunset-gradient&exclude_days=sat,sun)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg)
 
