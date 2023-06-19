@@ -7,25 +7,43 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4999&pause=1000&color=F77F56&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Certified+Scrum+Master;Agilist+with+a+capital+A;Adding+value+at+CapaSystems+A%2FS;Always+interested+in+new+tech;Ready+to+learn!"/>
 </p>
 
-### About Me :
-- :telescope: Software Engineer and Certified Scrum Master at CapaSystems A/S 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-ramstedt/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/oliver-ramstedt/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>  
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="discordapp.com/users/521980120366317588">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>  
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <details open>
-    <summary><h2>Github Stats</h2></summary>
-    <h3>Streak</h3>
+    <summary><h2>📊 Github Stats</h2></summary>
+    <h3>Streak Stats</h3>
     <p>
-        <img alt="Oliver's Streak" src="https://streak-stats.demolab.com/?user=MoistGoolem&theme=sunset-gradient&exclude_days=sat,sun"/>
+        <img alt="MoistGoolem's Streak" src="https://streak-stats.demolab.com/?user=MoistGoolem&theme=monokai-metallian&hide_border=true&exclude_days=sat,sun&currStreakLabel=F77F56&sideLabels=F77F56"/>
+    </p>
+    <h3>Profile Stats</h3>
+    <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="MoistGoolem's Github Stats" src="github-readme-stats-46dzfdmpc-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="MoistGoolem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+        </a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+            <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=ffd966&point=F77F56&hide_border=true"/>
+        </a>
     </p>
     <h3>Contribution Snake</h3>
     <p>
-        <img alt="Oliver's Contribution Snake" src="https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg"/>
+        <img alt="MoistGoolem's Contribution Snake" src="https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg"/>
     </p>
 </details>
 
 <details>
-    <summary>🛠️ My Favorite Tools</summary>
+    <summary><h2>🛠️ Tech I Use</h2></summary>
     <h3>👨‍💻 Programming and Markup Languages</h3>
     <p>
         <a href="https://github.com/search?q=user%3AMoistGoolem+language%3AtypeScript">
@@ -110,16 +128,18 @@
         <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
         <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
         <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+        <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"></a>
         <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
         <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+        <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
         <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
         <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
         <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"></a>
         <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
         <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
         <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-        <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svglogo=nginx&logoColor=white)"></a>
+        <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)"></a>
         <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
         <a href="#"><img alt="OneDrive" src="https://img.shields.io/badge/OneDrive-white.svg?logo=Microsoft%20OneDrive&logoColor=0078D4"></a>
         <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
