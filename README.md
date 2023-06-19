@@ -12,7 +12,14 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-ramstedt/)
 
-### My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MoistGoolem&theme=sunset-gradient&exclude_days=sat,sun)](https://git.io/streak-stats)
-![Snake animation](https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg)
-
+<details open>
+    <summary><h2>Github Stats</h2></summary>
+    <h3>Streak</h3>
+    <p>
+        <img alt="Oliver's Streak" src="https://streak-stats.demolab.com/?user=MoistGoolem&theme=sunset-gradient&exclude_days=sat,sun"/>
+    </p>
+    <h3>Contribution Snake</h3>
+    <p>
+        <img alt="Oliver's Contribution Snake" src="https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg"/>
+    </p>
+</details>
