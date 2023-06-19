@@ -10,7 +10,7 @@
 ### About Me :
 - :telescope: Software Engineer and Certified Scrum Master at CapaSystems A/S 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oliver Ramstedt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-ramstedt/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-ramstedt/)
 
 ### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoistGoolem&theme=sunset-gradient&exclude_days=sat,sun)](https://git.io/streak-stats)
