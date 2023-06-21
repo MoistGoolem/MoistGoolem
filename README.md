@@ -1,8 +1,6 @@
-# Oliver Ramstedt
 <p align="center">
-    <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=1000&color=F77F56&width=435&lines=Oliver+Ramstedt"/> !-->
+    <img src="./name.svg">
 </p>
-
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4999&pause=1000&color=F77F56&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Certified+Scrum+Master;Agilist+with+a+capital+A;Adding+value+at+CapaSystems+A%2FS;Always+interested+in+new+tech;Ready+to+learn!"/>
 </p>
@@ -15,7 +13,6 @@
     <a href="discordapp.com/users/521980120366317588">
         <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>  
-    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <details open>
@@ -33,7 +30,7 @@
             <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-46dzfdmpc-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
         </a>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=ffd966&point=F77F56&hide_border=true"/>
+            <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
         </a>
     </p>
     <h3>Contribution Snake</h3>
