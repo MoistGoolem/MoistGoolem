@@ -79,46 +79,107 @@
     </p>
     <h3>🧰 Frameworks and Libraries</h3>
     <p>
-        <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-        <a href="#"><img alt="Bulma" src="https://img.shields.io/badge/bulma-00D0B1?logo=bulma&logoColor=white"></a>
-        <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-        <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-        <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-        <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-        <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
-        <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-        <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-        <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
-        <a href="#"><img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD"></a>
-        <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white"></a>
-        <a href="#"><img alt="Nx" src="https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white"></a>
-        <a href="#"><img alt="PNMP" src="https://img.shields.io/badge/PNPM-%234a4a4a.svg?logo=pnpm&logoColor=f69220"></a>
+        <a href="https://getbootstrap.com/">
+            <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+        </a>
+        <a href="https://bulma.io/">
+            <img alt="Bulma" src="https://img.shields.io/badge/bulma-00D0B1?logo=bulma&logoColor=white">
+        </a>
+        <!--<a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>!-->
+        <a href="https://www.electronjs.org/">
+            <img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white">
+        </a>
+        <a href="https://github.com/expressjs/express">
+            <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+        </a>
+        <a href="https://github.com/features/actions">
+            <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+        </a>
+        <a href="https://graphql.org/">
+            <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
+        </a>
+        <!--<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>!-->
+        <a href="https://m3.material.io/">
+            <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
+        </a>
+        <a href="https://nextjs.org/">
+            <img alt="Next JS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
+        </a>
+        <a href="https://nodemon.io/">
+            <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD">
+        </a>
+        <a href="https://www.npmjs.com/">
+            <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white">
+        </a>
+        <a href="https://nx.dev/">
+            <img alt="Nx" src="https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white">
+        </a>
+        <a href="https://pnpm.io/">
+            <img alt="PNPM" src="https://img.shields.io/badge/PNPM-%234a4a4a.svg?logo=pnpm&logoColor=f69220">
+        </a>
         <!--<a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white"></a>!-->
-        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-        <a href="#"><img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white"></a>
-        <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"></a>
+        <a href="https://react.dev/">
+            <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+        </a>
+        <a href="https://www.npmjs.com/package/react-query">
+            <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
+        </a>
+        <a href="https://reactrouter.com/en/main">
+            <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white">
+        </a>
         <!--<a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)"></a>!-->
         <!--<a href="#"><img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?logo=solid&logoColor=c8c9cb"></a>!-->
-        <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
-        <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-        <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-        <a href="#"><img alt="Threejs" src="https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white"></a>
-        <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
-        <a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white"></a>
-        <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+        <a href="https://spring.io/">
+            <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white">
+        </a>
+        <a href="https://tailwindcss.com/">
+            <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+        </a>
+        <a href="https://www.tensorflow.org/">
+            <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+        </a>
+        <a href="https://threejs.org/">
+            <img alt="Threejs" src="https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white">
+        </a>
+        <a href="https://vitejs.dev/">
+            <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white">
+        </a>
+        <a href="https://wordpress.com/">
+            <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
+        </a>
     </p>
     <h3>🗄️ Databases, ORM and Cloud Hosting</h3>
     <p>
-        <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white"></a>
-        <a href="#"><img alt="Datadog" src ="https://img.shields.io/badge/datadog-%23632CA6.svg?logo=datadog&logoColor=white"></a>
-        <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-        <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-        <a href="#"><img alt="PlanetScale" src="https://img.shields.io/badge/Planetscale-%23131313.svg?logo=planetscale&logoColor=white"></a>
-        <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"></a>
-        <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
-        <a href="#"><img alt="ScaleWay" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?logo=scaleway&logoColor=white"></a>
-        <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+        <a href="https://azure.microsoft.com/en-us">
+            <img alt="Azure" src ="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
+        </a>
+        <a href="https://www.datadoghq.com/">
+            <img alt="Datadog" src ="https://img.shields.io/badge/datadog-%23632CA6.svg?logo=datadog&logoColor=white">
+        </a>
+        <a href="https://www.docker.com/">
+            <img alt="Docker" src ="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+        </a>
+        <a href="https://www.mongodb.com/">
+            <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+        </a>
+        <a href="https://www.mysql.com/">
+            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+        </a>
+        <a href="https://planetscale.com/">
+            <img alt="PlanetScale" src="https://img.shields.io/badge/Planetscale-%23131313.svg?logo=planetscale&logoColor=white">
+        </a>
+        <a href="https://www.prisma.io/">
+            <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white">
+        </a>
+        <a href="https://redis.io/">
+            <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
+        </a>
+        <a href="https://www.scaleway.com/en/">
+            <img alt="ScaleWay" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?logo=scaleway&logoColor=white">
+        </a>
+        <a href="https://vercel.com/">
+            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+        </a>
     </p>
     <h3>💻 Software and Tools</h3>
     <p>
@@ -144,6 +205,9 @@
         <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
         <a href="#"><img alt="StoryBook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"></a>
         <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
+        <a href="https://unity.com/">
+            <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white">
+        </a>
         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </p>
 </details>
