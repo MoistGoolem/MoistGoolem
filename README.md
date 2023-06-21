@@ -15,7 +15,7 @@
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm">
-        <img alt="Gmail" src="./google.svg">
+        <img alt="Email" src="./email.svg">
     </a>
 </p>
 
