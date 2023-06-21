@@ -14,9 +14,9 @@
         <img alt="LinkedIn" src="./linkedin.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.facebook.com/profile.php?id=1848354039">
-        <img alt="Facebook" src="./facebook.svg">
-    </a> 
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm">
+        <img alt="Gmail" src="./google.svg">
+    </a>
 </p>
 
 <details open>
