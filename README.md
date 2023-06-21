@@ -6,13 +6,17 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/oliver-ramstedt/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="discordapp.com/users/521980120366317588">
+        <img alt="Discord" src="./discord.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="discordapp.com/users/521980120366317588">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://www.linkedin.com/in/oliver-ramstedt/">
+        <img alt="LinkedIn" src="./linkedin.svg">
     </a>  
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.facebook.com/profile.php?id=1848354039">
+        <img alt="Facebook" src="./facebook.svg">
+    </a> 
 </p>
 
 <details open>
