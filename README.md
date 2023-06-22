@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./name.svg">
+    <img src="./images/name.svg">
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4999&pause=1000&color=F77F56&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Certified+Scrum+Master;Agilist+with+a+capital+A;Adding+value+at+CapaSystems+A%2FS;Always+interested+in+new+tech;Ready+to+learn!"/>
@@ -7,15 +7,15 @@
 
 <p align="center">
     <a href="discordapp.com/users/521980120366317588">
-        <img alt="Discord" src="./discord.svg">
+        <img alt="Discord" src="./images/discord.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/oliver-ramstedt/">
-        <img alt="LinkedIn" src="./linkedin.svg">
+        <img alt="LinkedIn" src="./images/linkedin.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm">
-        <img alt="Email" src="./email.svg">
+        <img alt="Email" src="./images/email.svg">
     </a>
 </p>
 
