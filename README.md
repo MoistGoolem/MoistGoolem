@@ -38,10 +38,10 @@
             <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
         </a>
     </p>
-    <h3>Contribution Snake</h3>
+<!--     <h3>Contribution Snake</h3>
     <p>
         <img alt="MoistGoolem's Contribution Snake" src="https://github.com/MoistGoolem/MoistGoolem/blob/output/github-contribution-grid-snake.svg"/>
-    </p>
+    </p> -->
 </details>
 
 <details>
