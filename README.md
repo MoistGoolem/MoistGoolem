@@ -54,14 +54,14 @@
         <a href="#">
             <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
         </a>
+        <a href="https://nodejs.org/en">
+            <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+        </a>
         <a href="#">
             <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
         </a>
         <a href="#">
             <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-        </a>
-        <a href="https://nodejs.org/en">
-            <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
         </a>
         <a href="#">
             <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
@@ -188,9 +188,6 @@
     </p>
     <h3>💻 Software and Tools</h3>
     <p>
-        <a href="https://www.adobe.com/">
-            <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
-        </a>
         <a href="https://www.android.com/">
             <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
         </a>
