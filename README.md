@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-    <a href="discordapp.com/users/521980120366317588">
+<!--     <a href="discordapp.com/users/521980120366317588">
         <img alt="Discord" src="./images/discord.svg">
     </a>  
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287; -->
     <a href="https://www.linkedin.com/in/oliver-ramstedt/">
         <img alt="LinkedIn" src="./images/linkedin.svg">
     </a>  
