@@ -29,7 +29,7 @@
     <h3>Profile Stats</h3>
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-46dzfdmpc-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+            <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img alt="MoistGoolem's Github Stats" src="https://github-readme-stats-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&count_private=true&show=reviews,prs_merged&hide=issues,stars,contribs&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866" height="192px"/>
