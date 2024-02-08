@@ -20,7 +20,7 @@
     </a>
 </p>
 
-<details open>
+<details>
     <summary><h2>📊 Github Stats</h2></summary>
     <h3>Streak Stats</h3>
     <p>
