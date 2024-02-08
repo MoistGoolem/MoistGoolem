@@ -34,6 +34,9 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-46dzfdmpc-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
         </a>
+        <a>
+            <img alt="MoistGoolem's Profile Stats" src="github-readme-stats-weld-alpha-53.vercel.app"/>
+        </a>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
         </a>
