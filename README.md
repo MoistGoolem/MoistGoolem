@@ -11,9 +11,13 @@
         <img alt="Discord" src="./images/discord.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-    <img alt="LinkedIn" href="https://www.linkedin.com/in/oliver-ramstedt/" src="./images/linkedin.svg">
+    <a href="https://www.linkedin.com/in/oliver-ramstedt/">
+        <img alt="LinkedIn" src="./images/linkedin.svg">
+    </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img alt="Email" href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm" src="./images/email.svg">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm">
+        <img alt="Email" src="./images/email.svg">
+    </a>
 </p>
 
 <details open>
