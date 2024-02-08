@@ -11,13 +11,9 @@
         <img alt="Discord" src="./images/discord.svg">
     </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-    <a href="https://www.linkedin.com/in/oliver-ramstedt/">
-        <img alt="LinkedIn" src="./images/linkedin.svg">
-    </a>  
+    <img alt="LinkedIn" href="https://www.linkedin.com/in/oliver-ramstedt/" src="./images/linkedin.svg">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm">
-        <img alt="Email" src="./images/email.svg">
-    </a>
+    <img alt="Email" href="https://mail.google.com/mail/u/0/?fs=1&to=olra0312@gmail.com&tf=cm" src="./images/email.svg">
 </p>
 
 <details open>
@@ -28,15 +24,9 @@
     </p>
     <h3>Profile Stats</h3>
     <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="MoistGoolem's Github Stats" src="https://github-readme-stats-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&count_private=true&show=reviews,prs_merged&include_all_commits=true&hide=issues,stars,contribs&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&rank_icon=github" height="192px"/>
-        </a>
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img align="left" alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
-        </a>
+        <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+        <img alt="MoistGoolem's Github Stats" src="https://github-readme-stats-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&count_private=true&show=reviews,prs_merged&include_all_commits=true&hide=issues,stars,contribs&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&rank_icon=github" height="192px"/>
+        <img align="left" alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
     </p>
 <!--     <h3>Contribution Snake</h3>
     <p>
