@@ -32,7 +32,7 @@
             <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-46dzfdmpc-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="MoistGoolem's Github Stats" src="https://github-readme-stats-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866" height="192px"/>
+            <img alt="MoistGoolem's Github Stats" src="https://github-readme-stats-moistgoolem.vercel.app/api/?username=MoistGoolem&show_icons=true&count_private=true&show=reviews,prs_merged &theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866" height="192px"/>
         </a>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img align="left" alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
