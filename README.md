@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <!-- TODO: Make better texts-->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4999&pause=1000&color=F77F56&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Certified+Scrum+Master;Agilist+with+a+capital+A;Adding+value+at+CapaSystems+A%2FS;Always+interested+in+new+tech;Ready+to+teach+and+learn!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4999&pause=1000&color=F77F56&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Certified+Scrum+Master;Agilist+with+a+capital+A;Adding+value+at+CapaSystems+A%2FS;Always+interested+in+new+tech"/>
 </p>
 
 <p align="center">
