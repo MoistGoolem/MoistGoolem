@@ -94,8 +94,6 @@
         <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
         <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
         <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-        <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-        <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"></a>
         <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
         <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
         <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -103,8 +101,6 @@
         <a href="https://mega.io/"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
         <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"><img alt="OneDrive" src="https://img.shields.io/badge/OneDrive-white.svg?logo=Microsoft%20OneDrive&logoColor=0078D4"></a>
         <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-        <a href="https://www.reddit.com/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a>
-        <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
         <a href="https://storybook.js.org/"><img alt="StoryBook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"></a>
         <a href="https://swagger.io/"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
         <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
