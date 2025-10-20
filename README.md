@@ -16,12 +16,12 @@
     <summary><h2>📊 Github Stats</h2></summary>
     <h3>Streak Stats</h3>
     <p>
-        <img alt="MoistGoolem's Streak" src="https://streak-stats.demolab.com/?user=MoistGoolem&theme=monokai-metallian&hide_border=true&exclude_days=sat,sun&currStreakLabel=F77F56&sideLabels=F77F56"/>
+        <img alt="Oliver Ramstedt's Streak" src="https://streak-stats.demolab.com/?user=MoistGoolem&theme=monokai-metallian&hide_border=true&exclude_days=sat,sun&currStreakLabel=F77F56&sideLabels=F77F56"/>
     </p>
     <h3>Profile Stats</h3>
     <p>
-        <img alt="MoistGoolem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
-        <img alt="MoistGoolem's Top Languages" src="https://github-readme-stats-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+        <img alt="Oliver Ramstedt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MoistGoolem&bg_color=1F222E&color=F77F56&line=F8D866&point=F77F56&hide_border=true"/>
+        <img alt="Oliver Ramstedt's Top Languages" src="https://github-readme-stats-moistgoolem.vercel.app/api/top-langs/?username=MoistGoolem&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F77F56&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
             &#8287;&#8287;&#8287;&#8287;&#8287;
     </p>
 </details>
